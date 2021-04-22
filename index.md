@@ -4,16 +4,26 @@ You can use the [editor on GitHub](https://github.com/FuNuNuN/fununun.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# toDo List
+
+## 1. 建立基于GitHub的个人博客
+
+主要包含安装Nodejs，hexo
+
+部署到Github.io上
+
+>  https://zhuanlan.zhihu.com/p/26625249
+
+## 2. HomeLab的方案
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
-
-# ToDo List
-## 建立基于GitHub的个人博客
-> https://zhuanlan.zhihu.com/p/26625249
 ### Header 3
 
 - Bulleted
